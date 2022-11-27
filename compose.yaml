@@ -1,0 +1,6 @@
+services:
+  intelgram:
+    container_name: intelgram
+    build: .
+    volumes:
+      - ./output:/app/output

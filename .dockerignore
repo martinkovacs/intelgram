@@ -1,0 +1,4 @@
+config/settings.json
+output/
+venv/
+__pycache__/

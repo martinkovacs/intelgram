@@ -1,0 +1,6 @@
+geopy >= 2.3.0
+instagrapi >= 1.16.30
+inteltk >= 1.0.1
+Pillow >= 7.2.0 # instagrapi needs pillow, but doesn't install it by default
+prettytable >= 3.5.0
+pyreadline3 >= 3.4.1; platform_system == "Windows"
